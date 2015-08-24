@@ -1,1 +1,1 @@
-My fork of (party-mode)[https://github.com/preziotte/party-mode], which integrates Beach House's new album, Depression Cherry. I put it on Heroku, available (here)[https://beachouserocks.herokuapp.com].
+My fork of [party-mode](https://github.com/preziotte/party-mode), which integrates Beach House's new album, Depression Cherry. I put it on Heroku, available [here](https://beachouserocks.herokuapp.com).
